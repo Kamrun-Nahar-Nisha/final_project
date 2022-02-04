@@ -1,0 +1,7 @@
+---
+mysql_port: 3306
+dbname: nishadb
+dbuser: nisha
+dbpassword: 1234
+httpd_port: 80
+repository: https://github.com/Debaice06/Ansible_Projects_Ecommerce.git
